@@ -10,6 +10,7 @@ Jimmy Luo的个人博客
 
 ### 最新
 
+* [本地电脑如何变成服务器？](http://blog.luojinming.com/articles/2019/05/22/1558465405493.html)
 * [《极客与团队》书摘](http://blog.luojinming.com/articles/2019/05/16/1557944680850.html)
 
 
